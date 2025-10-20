@@ -5,8 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Researcher+%7C+Agent+Architect;Building+Self-Evolving+Intelligent+Systems;Open+Source+%E2%9D%A4%EF%B8%8F+Science" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/ln172?style=social)](https://github.com/ln172)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ln172?style=social)](https://twitter.com/ln172)
-![Profile Views](https://komarev.com/ghpvc/?username=ln172&color=blueviolet&style=flat-square)
+
 
 </div>
 
