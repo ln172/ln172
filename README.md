@@ -114,19 +114,6 @@ graph LR
 
 ---
 
-## 📬 联系方式 | Get in Touch
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ln172-181717?style=for-the-badge&logo=github)](https://github.com/ln172)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Blog](https://img.shields.io/badge/Blog-Visit-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog-url.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ln172)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💭 研究箴言 | Research Motto
